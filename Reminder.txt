@@ -1,6 +1,2 @@
-1). Eat Breakfast
-2). Watch TV
-4). Check Gmail
-5). Check Outlook
-5). Eat Lunch
-6). Eat Dinner
+1). Check Gmail
+2). Check Outlook
