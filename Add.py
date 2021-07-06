@@ -6,5 +6,4 @@ def add(N):
         fout.write(n+"). "+rem+"\n")
     print("Reminder entered")
     ques=input("Press Any Key to Continue")
-    
-add(2)
+    return
