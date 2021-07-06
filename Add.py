@@ -8,7 +8,7 @@ def add():
         i=str(I)
         rem=input("Enter Reminder "+i+": ")
         fout.write(n+"). "+rem+"\n")
-        ques1=input("Do you want to enter another reminder? Y/N")
+        ques1=input("Do you want to enter another reminder? Y/N ")
         if ques1 in "Yy":
             I+=1
             N+=1
